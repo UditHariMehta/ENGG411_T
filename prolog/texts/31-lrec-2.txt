@@ -1,0 +1,63 @@
+Dave and Olivier are lecturers.
+John is a student who is enrolled in Mathematics.
+Thelma is a student and is enrolled in Mathematics.
+Every lecturer supervises exactly two students who are enrolled in Mathematics.
+Dave, Olivier and Ron are lecturers.
+For every student who is enrolled in Mathematics there are exactly two lecturers who supervise the student.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

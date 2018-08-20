@@ -1,0 +1,5 @@
+There are exactly four cars.
+
+Every car has exactly one distinct colour.
+
+Red, yellow, green and blue are colours.

@@ -1,0 +1,60 @@
+
+Pete holds a casual job as tutor and Lin is enrolled in a Mathematics degree. Dave is enrolled in an English degree and holds a casual job as guard. Mary who is matriculated in a Computer Science degree holds a casual job as shop assistant.
+
+Dave, Pete, Lin and Mary are students.
+
+John, Bob, Alice, and Mary are runners.
+
+John works.
+
+Every Computer Science degree, every English degree and every Mathematics degree is a degree program.
+
+Every casual job is a job.
+
+Every student who is matriculated in a degree program is enrolled in that degree program.
+
+If a student holds a job then the student is employed.
+
+If a student is not provably employed then the student is not employed.
+
+There are exactly two courses.
+
+The first course is Web Technology and the second course is Information Technology.
+
+Alice and Sue are lecturers.
+
+Every lecturer teaches exactly one distinct course.
+
+Alice teaches Web Technology.
+
+Exclude that Sue teaches Web Technology.
+
+Sue sits in the first office and Alice sits in the second office.
+
+If there is an office N1 and there is an office N2 and N2 is equal to N1 plus 1 then the office N2 is right of the office N1.
+
+Students are normally afraid of math.
+
+If a student is enrolled in a Mathematics degree then the student is not afraid of math.
+
+If a student is not provably not enrolled in a Computer Science degree then the student is abnormally afraid of math.
+
+If there is a degree program X1 and there is a degree program X2 and a student is enrolled in the degree program X1 and X1 is not the same as X2 then the student is not enrolled in the degree program X2.
+
+Mike is a student who is enrolled in the English degree.
+
+Is Dave employed?
+
+Which students are employed?
+
+Which students are not employed?
+
+How many students are employed?
+
+How many students are not employed?
+
+Are most students employed?
+
+Are most students not employed?
+
+Who is afraid of math?

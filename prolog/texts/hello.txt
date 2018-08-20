@@ -1,0 +1,2 @@
+John works.
+John works and Mary sleeps.

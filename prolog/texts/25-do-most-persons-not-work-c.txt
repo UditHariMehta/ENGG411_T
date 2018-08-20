@@ -1,0 +1,45 @@
+John is a student who works and Bob is a student who parties.
+
+Mary is a student who does not work.
+
+Sue is a student who exercises.
+
+Olivier is a student and drinks.
+
+If a person exercises then the person works.
+
+Every lecturer works.
+
+Alice and Tom are lecturers.
+
+Every student and every lecturer is a person.
+
+If a person does not provably work then the person does not work.
+
+How many persons work?
+
+How many persons do not work?
+
+Do most persons work?
+
+Do most persons not work?
+
+Which persons work?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

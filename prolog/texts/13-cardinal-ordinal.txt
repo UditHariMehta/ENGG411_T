@@ -1,0 +1,14 @@
+There are exactly four cars.
+
+The first car is red.
+
+The second car is yellow.
+
+The third car is white and the fourth car is red.
+
+Every car is a vehicle and every vehicle is a thing.
+
+If a thing is red then the thing is sellable.
+
+How many things are sellable?
+

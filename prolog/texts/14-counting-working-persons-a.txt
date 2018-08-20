@@ -1,0 +1,13 @@
+There are exactly five students.
+
+There are exactly two lecturers.
+
+Every student works.
+
+Every lecturer works.
+
+Every student is a person.
+
+Every lecturer is a person.
+
+How many persons work?

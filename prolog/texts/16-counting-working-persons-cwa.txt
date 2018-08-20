@@ -1,0 +1,29 @@
+There are exactly three students and there are exactly two lecturers.
+
+The first student is John.
+
+The second student is Bob.
+
+The first lecturer is Alice.
+
+Every student and every lecturer is a person.
+
+John works and Bob does not work.
+
+The third student works.
+
+Alice works.
+
+If a person does not provably work then the person does not work.
+
+How many persons work?
+
+How many persons do not work?
+
+Who works?
+
+Who does not work?
+
+
+
+
