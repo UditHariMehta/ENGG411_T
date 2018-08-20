@@ -1,0 +1,51 @@
+Every person who holds a job as chef is a chef.
+
+Every person who holds a job as guard is a guard.
+
+Every person who holds a job as nurse is a nurse.
+
+Every person who holds a job as telephone operator is a telephone operator.
+
+Every person who holds a job as police officer is a police officer.
+
+Every person who holds a job as teacher is a teacher.
+
+Every person who holds a job as actor is an actor.
+
+Every person who holds a job as boxer is a boxer.
+
+Roberta, Thelma, Steve, and Pete are persons.
+
+Roberta and Thelma are female.
+
+Steve and Pete are male.
+
+Exclude that a person is male and is female.  
+
+For every job there is exactly one person who holds the job.
+
+Every person holds exactly two jobs.
+
+Chef, guard, nurse, telephone operator, police officer, teacher, actor, and boxer are jobs.
+
+Every person who is a nurse or who is an actor is male.
+
+If there is a telephone operator and there is a chef then the telephone operator is the husband of the chef.
+
+Every person who is a chef is female.
+
+Every person who is a telephone operator is male.
+
+Exclude that Roberta is a boxer.
+
+Exclude that Pete is educated.
+
+Every person who is a nurse or who is a police officer or who is a teacher is educated.
+
+Exclude that Roberta is a chef and exclude that Roberta is a police officer.
+
+Exclude that a person is a chef and is a police officer. 
+
+Who holds which jobs?
+
+

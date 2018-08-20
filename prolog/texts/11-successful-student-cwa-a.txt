@@ -1,0 +1,18 @@
+Every student who works is successful.
+
+Every student who studies at Macquarie University works or parties.
+
+It is not the case that a student who is enrolled in Information Technology parties.
+
+Information Technology, Mathematics, and Biology are degree programs.
+
+Tom is a student.
+
+Tom studies at Macquarie and is enrolled in Information Technology.
+
+Bob is a student who studies at Macquarie and does not work.
+
+If a student is not provably enrolled in a degree program then the student is not enrolled in the degree program.
+
+Who is successful?
+

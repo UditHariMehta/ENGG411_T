@@ -1,0 +1,71 @@
+Red, green, ivory, yellow and blue are colours.
+
+Coffee, tea, milk, orange juice and water are drinks.
+
+Old Gold, Kools, Chesterfields, Lucky Strike and Parliaments are cigarette brands.
+
+Every Englishman, every Spaniard, every Ukrainian, every Norwegian and every Japanese is a national.
+
+There are an Englishman, a Spaniard, an Ukrainian, a Norwegian and a Japanese.
+
+Every dog, every fox, every horse, every zebra and every snail is an animal.
+
+There are a dog, a fox, a horse, a zebra and a snail.
+
+There are exactly five houses.
+
+Every house features exactly one distinct colour.
+
+Every house accommodates exactly one distinct national.
+
+Every house shelters exactly one distinct animal.
+
+Every house serves exactly one distinct drink.
+
+Every house uses exactly one distinct cigarette brand.
+
+If there is a house N1 and there is a house N2 and N1 is equal to N2 plus 1 then the house N1 is right of the house N2.
+
+If there is a house N1 and there is a house N2 and N1 is equal to N2 minus 1 then the house N1 is left of the house N2.
+
+If a house N1 is right of a house N2 then the house N1 is next to the house N2.
+
+If a house N1 is left of a house N2 then the house N1 is next to the house N2.
+
+Exclude that a red house does not provably accommodate an Englishman.
+
+Exclude that a house that accommodates a Spaniard does not provably shelter a dog.
+
+Exclude that a green house does not provably serve coffee.
+
+Exclude that a house that accommodates an Ukrainian does not provably serve tea.
+
+Exclude that a green house is not provably right of an ivory house.
+
+Exclude that a house that uses Old Gold does not provably shelter a snail.
+
+Exclude that a yellow house does not provably use Kools.
+
+Exclude that the third house does not provably serve milk.
+
+Exclude that the first house does not provably accommodate a Norwegian.
+
+Exclude that a house that uses Chesterfields is not provably next to a house that shelters a fox.
+
+Exclude that a house that uses Kools is not provably next to a house that shelters a horse.
+
+Exclude that a house that uses Lucky Strike does not provably serve orange juice.
+
+Exclude that a house that accommodates a Japanese does not provably use Parliaments.
+
+Exclude that a house that accommodates a Norwegian is not provably next to a blue house.
+
+If a house accommodates a national and shelters a zebra then the national owns the zebra.
+
+If a house accommodates a national and serves water then the national drinks water.  
+
+Who owns the zebra?
+
+Who drinks water?
+
+

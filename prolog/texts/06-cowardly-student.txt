@@ -1,0 +1,25 @@
+Dave, Mary, Bob and Pat are students.
+
+Dave is located in the Department of English.
+
+Mary is located in the Department of Computer Science.
+
+Bob is located in the Department of Computer Science.
+
+Pat is located in the Department of Mathematics.
+
+Every student is located in exactly one department.
+
+Every department of X1 is a department.
+
+If a student is not provably located in a department then the student is not located in that department.
+
+Students are normally afraid of math.
+
+Mary is not afraid of math.
+
+If a student is located in a Department of Mathematics then the student is not afraid of math.
+
+If a student is not provably not located in a Department of Computer Science then the student is abnormally afraid of math.
+
+Who is afraid of math?

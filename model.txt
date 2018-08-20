@@ -1,0 +1,11 @@
+clingo version 5.1.0
+Reading from f:/peng-asp-2017-03-30-stable/asp.lp
+Solving...
+Answer: 1
+-pred(bob,work) pred(john,work) inst(tom,student) inst(bob,student) pred(tom,macquarie_university,study_at) pred(bob,macquarie_university,study_at) prop(tom,information_technology,enrolled_in) query(tom,who,student) query(bob,who,student) query(macquarie_university,who,nil) query(information_technology,who,nil) query(tom,who,nil) query(bob,who,nil) query(john,who,nil) ans_id(no1,who,pos) const(macquarie_university) const(information_technology) const(tom) const(bob) const(john) pred(tom,work) pred(bob,party) prop(tom,successful) ans(no1,inst(tom,student),pos,owa) ans(no1,inst(tom,nil),pos,owa)
+SATISFIABLE
+
+Models       : 1
+Calls        : 1
+Time         : 0.248s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.109s

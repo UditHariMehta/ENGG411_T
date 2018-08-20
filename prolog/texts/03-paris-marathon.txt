@@ -1,0 +1,41 @@
+Dominique, Ignace, Naren, Olivier, Pascal, and Philippe are runners.
+
+There are exactly six positions.
+
+Exclude that Olivier is allocated to the sixth position.
+
+If a runner X1 is allocated to a position N1 and a runner X2 is allocated to a position N2 and N1 is smaller than N2 then X1 is before X2.
+
+Exclude that Naren is before Dominique.
+
+Exclude that Naren is before Pascal.
+
+Exclude that Naren is before Ignace.
+
+
+Exclude that Olivier is before Dominique.
+
+Exclude that Olivier is before Pascal.
+
+Exclude that Olivier is before Ignace.
+
+ 
+Exclude that Dominique is allocated to a position N1 that is greater than or equal to 3.
+
+Exclude that Philippe is allocated to a position N1 that is greater than 4.
+
+Exclude that Ignace is allocated to the second position.
+
+Exclude that Ignace is allocated to the third position.
+
+Exclude that Pascal is allocated to a position N1 and that Naren is allocated to a position N2 and that N1 is not equal to N2 minus 3.
+
+Exclude that Ignace is allocated to the fourth position.
+
+Exclude that Dominique is allocated to the fourth position.
+
+Every runner is allocated to exactly one position.
+
+For every position there is exactly one runner who is allocated to that position.
+
+Which runner is allocated to what position N?

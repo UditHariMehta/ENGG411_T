@@ -1,0 +1,41 @@
+
+Every Martian is from Mars.   
+
+Exclude that a Venusian is from Mars.
+
+Every Venusian is from Venus.   
+
+Exclude that a Martian is from Venus.
+
+Every person is a Martian or is a Venusian.    
+
+Every person is female or is male.   
+
+Every person who is a female Martian or who is a male Venusian lies.  
+
+Every person who is a male Martian or who is a female Venusian is truthful.   
+
+Exclude that a person who lies is truthful.         
+
+Ork is a person and Bog is a person.  
+
+If Ork is truthful then Bog is from Venus.
+
+Exclude that Bog is from Venus and that Ork lies.  
+ 
+If Bog is truthful then Ork is from Mars.  
+
+Exclude that Bog lies and that Ork is from Mars.  
+
+If Ork is truthful then Bog is male.  
+
+Exclude that Ork lies and that Bog is male.  
+
+If Bog is truthful then Ork is female.  
+
+Exclude that Bog lies and that Ork is female.             
+
+Who is a Martian?
+
+Is Ork male?
+

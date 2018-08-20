@@ -1,0 +1,35 @@
+Every student who works is successful.
+
+Every student who studies at Macquarie University works or parties.
+
+It is not the case that a student who is enrolled in Information Technology parties.
+
+Information Technology, Mathematics and Biology are degree programs.
+
+Tom is a student.
+
+Tom studies at Macquarie and is enrolled in Information Technology.
+
+Bob is a student who studies at Macquarie and does not work.
+
+If a student is enrolled in a degree program X1 that is not the same as the degree program X2 then the student is not enrolled in X2.
+
+Dave and Olivier are lecturers.
+
+John is a student who is enrolled in Mathematics.
+
+Thelma is a student and is enrolled in Mathematics.
+
+Every lecturer supervises exactly two students who are enrolled in Mathematics.
+
+For every student who is enrolled in Mathematics there are exactly two lecturers who supervise the student.
+
+Students are normally afraid of DMTH137.
+
+If a student is enrolled in Mathematics then the student is not afraid of DMTH137.
+
+If a student is not provably not enrolled in Information Technology then the student is abnormally afraid of DMTH137.
+
+Who is afraid of DMTH137?
+
+
